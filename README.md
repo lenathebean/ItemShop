@@ -1,5 +1,5 @@
-CID_300_Athena_Commando_F_Angel, 1500
-CID_318_Athena_Commando_M_Demon, 1500
+CID_300_Athena_Commando_F_Angel, 2000
+CID_318_Athena_Commando_M_Demon, 2000
 Pickaxe_ID_144_Angel, 800
 na
 na
